@@ -16,7 +16,7 @@ Hi, My name is Marvi Lean Negrete. I'm a freelance developer that is passionate 
 <img width="200" src="https://user-images.githubusercontent.com/55273309/254490983-36626675-a67e-4b2f-ad1e-7d7c52bce917.jpg" height="150" style="object-fit:cover"/>
 </a>
 <a href="https://github.com/marvskiee/asianhuba2-client">
-<img width="200" src="https://user-images.githubusercontent.com/55273309/254486265-bd913097-5387-483e-804b-ca3a7bf2293f.jpg" height="150" style="object-fit:cover"/>
+<img width="200" src="https://user-images.githubusercontent.com/55273309/254486265-bd913097-5387-483e-804b-ca3a7bf2293f.jpg" height="150" style="object-fit:cover;"/>
 </a>
 <a href="https://github.com/marvskiee/animegon2-client">
 <img width="200" src="https://user-images.githubusercontent.com/55273309/254485428-8b704051-b0fe-46d8-bcda-46c4335a22b0.jpg" height="150" style="object-fit:cover"/>
