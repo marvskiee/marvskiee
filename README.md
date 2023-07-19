@@ -7,7 +7,7 @@ Hi, My name is Marvi Lean Negrete. I'm a freelance developer that is passionate 
 
 - 🌱 I’m currently learning **Ionic, React Native, NextJS, etc**
 
-- 👨‍💻 All of my projects are available at [marvskiee]([marubi.vercel.app](https://github.com/marvskiee?tab=repositories))
+- 👨‍💻 All of my projects are available at [marvskiee](https://github.com/marvskiee?tab=repositories)
 
 - 📫 How to reach me **negretemarvilean@gmail.com**
 
