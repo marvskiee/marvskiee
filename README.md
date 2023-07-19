@@ -13,19 +13,16 @@ Hi, My name is Marvi Lean Negrete. I'm a freelance developer that is passionate 
 
 <h3 align="left">🔥 Project Highlights:</h3>
 <a href="https://github.com/marvskiee/vitacode_client">
-<img width="200" src="https://user-images.githubusercontent.com/55273309/254490983-36626675-a67e-4b2f-ad1e-7d7c52bce917.jpg"/>
+<img width="200" src="https://user-images.githubusercontent.com/55273309/254490983-36626675-a67e-4b2f-ad1e-7d7c52bce917.jpg" height="150" style="object-fit:cover"/>
 </a>
 <a href="https://github.com/marvskiee/asianhuba2-client">
-<img width="200" src="https://user-images.githubusercontent.com/55273309/254486265-bd913097-5387-483e-804b-ca3a7bf2293f.jpg"/>
+<img width="200" src="https://user-images.githubusercontent.com/55273309/254486265-bd913097-5387-483e-804b-ca3a7bf2293f.jpg" height="150" style="object-fit:cover"/>
 </a>
 <a href="https://github.com/marvskiee/animegon2-client">
-<img width="200" src="https://user-images.githubusercontent.com/55273309/254485428-8b704051-b0fe-46d8-bcda-46c4335a22b0.jpg"/>
+<img width="200" src="https://user-images.githubusercontent.com/55273309/254485428-8b704051-b0fe-46d8-bcda-46c4335a22b0.jpg" height="150" style="object-fit:cover"/>
 </a>
 <a href="https://github.com/marvskiee/moviehiro-client">
-<img width="200" src="https://user-images.githubusercontent.com/55273309/254482633-8c8b0a74-caef-4135-b9f2-ce38e74f9dec.jpg"/>
-</a>
-<a href="https://github.com/marvskiee/noteme-client">
-<img width="200" src="https://user-images.githubusercontent.com/55273309/254491100-ac83c0c9-7b2d-4c47-b451-a6132e6d4f56.jpg"/>
+<img width="200" src="https://user-images.githubusercontent.com/55273309/254482633-8c8b0a74-caef-4135-b9f2-ce38e74f9dec.jpg" height="150" style="object-fit:cover"/>
 </a>
 
 <h3 align="left">☎️ Connect with me:</h3>
